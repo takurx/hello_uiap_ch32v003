@@ -1,1 +1,1 @@
-# hello_uaip_ch32v003
+# hello_uiap_ch32v003
